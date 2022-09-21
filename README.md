@@ -25,7 +25,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
-[<img alt="SQL" width="36px" src="![image](https://user-images.githubusercontent.com/99408263/191412961-d42bf6ca-dd39-41ad-a73e-12b39343c36b.png)" />]
+[<img alt="SQL" width="36px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" />]
 [<img alt="MATLAB" width="36px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" />]
 [<img alt="C++" width="20px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" />]
 [<img alt="Python" width="20px" src="https://user-images.githubusercontent.com/99408263/155013995-633dfb94-45fb-405d-8c44-9abbab7851df.png" />]
