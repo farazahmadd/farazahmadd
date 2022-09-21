@@ -2,18 +2,18 @@
 <!--<img align="center" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
 -->
 ## Hi there, I'm Faraz Ahmad! 
- - ⚡ I'm a Senior Year Mechanical Engineering student, Self-taught Programmer, and Data Science and Machine Learning Enthusiast. 
+ - ⚡ I am a Google-certified Data Analyst and Machine Learning Enthusiast.. 
  <br /><br />
-- ✨  I am exploring the feasibility of Artificial intelligence in control theory
+- ✨  I learn and apply advanced machine learning algorithms in my spare time. 
  <br /><br />
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning AWS
  <br /><br />
-- 🔭 I’m currently working on Path Planning and Obstacle avoidance of Holonomic Collaborative Robot Using Deep Reinforcement learning.
+- 🔭 I have worked on Path Planning and Obstacle Avoidance of Holonomic Collaborative Robot Using Deep Reinforcement learning as my FYP. 
 <br />
 
 👀 Domain Knowledge:<br />
 <p align="center">
-   Mechanical Engineering Design | Project Management | Data Science | Machine Learning | Deep Learning | Statistical Analysis 
+   Data Analyst | Machine Learning | Deep Learning | Statistical Analysis |Fourth Industrial Revolution | Robotic Automation
 <br />
 
 
@@ -25,6 +25,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
+[<img alt="SQL" width="36px" src="![image](https://user-images.githubusercontent.com/99408263/191412961-d42bf6ca-dd39-41ad-a73e-12b39343c36b.png)" />]
 [<img alt="MATLAB" width="36px" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png" />]
 [<img alt="C++" width="20px" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo.png" />]
 [<img alt="Python" width="20px" src="https://user-images.githubusercontent.com/99408263/155013995-633dfb94-45fb-405d-8c44-9abbab7851df.png" />]
