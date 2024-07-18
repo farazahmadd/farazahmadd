@@ -2,18 +2,18 @@
 <!--<img align="center" src="https://github.com/muqadir1/muqadir1/blob/master/Assets/banner.png" />
 -->
 ## Hi there, I'm Faraz Ahmad! 
- - ⚡ I am a Google-certified Data Analyst and Machine Learning Enthusiast.. 
+ - ⚡ I am graduate Research Assistant in [Auburn University](https://www.auburn.edu/), AL, USA.
  <br /><br />
-- ✨  I learn and apply advanced machine learning algorithms in my spare time. 
+- ✨  I did my bachelor's in Mechanical Engineering from [GIKI](https://giki.edu.pk/).
  <br /><br />
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently working on Autonomous Agricultral robots for row detection and path following.
  <br /><br />
-- 🔭 I have worked on Path Planning and Obstacle Avoidance of Holonomic Collaborative Robot Using Deep Reinforcement learning as my FYP. 
+- 🔭 I have worked on Path Planning and Obstacle Avoidance of Holonomic Collaborative Robot Using as my FYP. 
 <br />
 
 👀 Domain Knowledge:<br />
 <p align="center">
-   Data Analyst | Machine Learning | Deep Learning | Statistical Analysis |Fourth Industrial Revolution | Robotic Automation
+   Mechanical Engineer | Machine Learning | Deep Learning | Computer Vision | Autonomous Robots | Robotic Automation
 <br />
 
 
@@ -36,6 +36,6 @@
 [<img alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 
-[email]: mailto:farazahmadgik@gmail.com
-[instagram]: https://www.instagram.com/f.a.r.a.z_s/
+[email]: mailto:itsfaraz111@gmail.com
+[instagram]: https://www.instagram.com/its._.farazz/
 [linkedin]: https://www.linkedin.com/in/mfaraz-ahmad/
